@@ -34,7 +34,7 @@ const Footer = () => {
             </span>
             <ul className="font-medium flex flex-col gap-2 mt-4 text-activeButton">
               <li>Terms of services</li>
-              <li>Privact policy</li>
+              <li>Privacy policy</li>
             </ul>
           </div>
         </div>
